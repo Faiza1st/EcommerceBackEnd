@@ -36,3 +36,8 @@ This project is licensed under the MIT License.
 
 # Technologies Used
 HTML CSS JavaScript Nodejs (express.js) Insomnia mySQL
+
+# Support 
+- Faiza Faisal https://github.com/Faiza1st
+- Chat GPT
+- Monash University Coding Bootcamp Tutors, Lecturers and TA
